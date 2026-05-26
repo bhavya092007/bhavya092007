@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Bhavya Shah
+# Hi 👋, I'm Bhavya Shah
 **Computer Engineering | Student | Developer  from India**
 
 Email Me 👉 ✉️ **sbhavya838@gmail.com** For Collaboration/Project or Anything Else. 😊😊
