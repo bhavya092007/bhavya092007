@@ -1,5 +1,16 @@
+# 💫 Hi 👋, I'm Bhavya Shah
+**Computer Engineering | Student | Developer  from India**
+
+Email Me 👉 ✉️ **sbhavya838@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
 Iʼm a Computer Engineering student who believes that the best code is written to solve real-world human problems. <br>My journey has been one of personal evolution—transitioning from a quiet observer to an extroverted builder who <br>thrives on networking and working with new people. I view every new connection as a gateway to fresh knowledge <br>and unique perspectives.<br>I prioritize collaborative growth. I focus on tools that help people connect and share expertise. Iʼm a calm professional <br>looking to bring this "build-and-lead" mindset to a team that values both technical depth and a culture of continuous <br>learning.<br><br><br><br>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
@@ -12,16 +23,16 @@ Iʼm a Computer Engineering student who believes that the best code is written t
 ![](https://streak-stats.demolab.com/?user=bhavya092007&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya092007&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavya092007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!---## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhavya092007&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhavya092007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!---### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhavya092007&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://komarev.com/ghpvc/?username=bhavya092007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
