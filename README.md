@@ -8,13 +8,9 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  root@bhavya:~$ ./boot_sequence.sh                              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**`root@bhavya:~$ ./boot_sequence.sh`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=%5B+OK+%5D+Booting+identity...+Bhavya+Shah;%5B+OK+%5D+Loading+module%3A+Computer+Engineering;%5B+OK+%5D+Mounting+drive%3A+India%2F%2Fdev%2Fsda1;%5B+OK+%5D+Compiling+curiosity.exe;%5B+DONE+%5D+System+ready.+Say+hi+%F0%9F%91%8B" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=435&lines=%5B+OK+%5D+Booting+identity...+Bhavya+Shah;%5B+OK+%5D+Loading+module%3A+Computer+Engineering;%5B+OK+%5D+Mounting+drive%3A+India%2F%2Fdev%2Fsda1;%5B+OK+%5D+Compiling+curiosity.exe;%5B+DONE+%5D+System+ready.+Say+hi+%F0%9F%91%8B" alt="boot sequence"/>
 
 </div>
 
@@ -67,13 +63,13 @@
 ## 🧬 the origin story, as a graph
 
 ```mermaid
-flowchart LR
-    A[👀 quiet observer] -->|found CS, started building| B[💻 first lines of code]
-    B -->|realized code = leverage for real problems| C[🛠️ builder mindset]
-    C -->|started reaching out, networking on purpose| D[🗣️ extroverted collaborator]
-    D -->|leading projects, still calm under pressure| E[🚀 build-and-lead engineer]
-    E -.->|seeking| F((team that values
-    depth + continuous learning))
+flowchart TD
+    A["👀 quiet observer"] --> B["💻 first lines of code"]
+    B --> C["🛠️ builder mindset"]
+    C --> D["🗣️ extroverted collaborator"]
+    D --> E["🚀 build & lead engineer"]
+    E -.-> F(["team that values
+    depth + growth"])
 
     style A fill:#1a1a2e,stroke:#39ff14,color:#fff
     style B fill:#1a1a2e,stroke:#39ff14,color:#fff
@@ -146,13 +142,15 @@ mindmap
 
 <br>
 
+
+
 ## `$ ./run_diagnostics.sh --stats`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img src="https://streak-stats.demolab.com/?user=bhavya092007&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=bhavya092007&theme=tokyonight&hide_border=true" alt="streak stats" width="95%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya092007&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
@@ -161,7 +159,7 @@ mindmap
 
 ## 🐍 `$ tail -f contribution_feed.log`
 
-
+*(this snake is rebuilt every night by a GitHub Action from my actual commit graph — not a static gif)*
 
 <div align="center">
 <img src="./snake.svg" width="90%"/>
@@ -169,13 +167,6 @@ mindmap
 
 <br>
 
-## 🧾 auto-generated metrics dashboard
-
-*(isocalendar heatmap, language breakdown, unlockable achievements — regenerated daily, also via Action)*
-
-<div align="center">
-<img src="metrics.svg" width="90%"/>
-</div>
 
 <br>
 
@@ -191,19 +182,11 @@ mindmap
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────┐
-│  > choose your channel                    │
-├──────────────────────────────────────────┤
-```
+**`> choose your channel`**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyashah272)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyashah272)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbhavya838@gmail.com)
-
-```
-└──────────────────────────────────────────┘
-```
 
 <br>
 
