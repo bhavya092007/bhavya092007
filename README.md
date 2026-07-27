@@ -159,7 +159,7 @@ mindmap
 
 ## 🐍 `$ tail -f contribution_feed.log`
 
-*(this snake is rebuilt every night by a GitHub Action from my actual commit graph — not a static gif)*
+
 
 <div align="center">
 <img src="./snake.svg" width="90%"/>
