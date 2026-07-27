@@ -1,0 +1,42 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="mclip"><rect width="900" height="200" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#mclip)">
+    <rect width="900" height="200" fill="#020403"/>
+
+    <!-- falling columns of characters -->
+    <g font-family="Courier New, monospace" font-size="16" fill="#39ff14">
+      <text x="10" y="0" opacity="0.8">10110<animate attributeName="y" values="-40;220" dur="2.1s" repeatCount="indefinite"/></text>
+      <text x="40" y="0" opacity="0.6">アカサ<animate attributeName="y" values="-40;220" dur="1.7s" repeatCount="indefinite" begin="0.3s"/></text>
+      <text x="70" y="0" opacity="0.9">01101<animate attributeName="y" values="-40;220" dur="2.4s" repeatCount="indefinite" begin="0.6s"/></text>
+      <text x="100" y="0" opacity="0.5">カナタ<animate attributeName="y" values="-40;220" dur="1.9s" repeatCount="indefinite" begin="0.9s"/></text>
+      <text x="130" y="0" opacity="0.7">11010<animate attributeName="y" values="-40;220" dur="2.2s" repeatCount="indefinite" begin="0.2s"/></text>
+      <text x="160" y="0" opacity="0.8">10011<animate attributeName="y" values="-40;220" dur="1.8s" repeatCount="indefinite" begin="0.7s"/></text>
+      <text x="190" y="0" opacity="0.6">サタナ<animate attributeName="y" values="-40;220" dur="2.5s" repeatCount="indefinite" begin="0.1s"/></text>
+      <text x="220" y="0" opacity="0.9">01011<animate attributeName="y" values="-40;220" dur="2s" repeatCount="indefinite" begin="0.5s"/></text>
+      <text x="250" y="0" opacity="0.5">10101<animate attributeName="y" values="-40;220" dur="1.6s" repeatCount="indefinite" begin="0.8s"/></text>
+      <text x="280" y="0" opacity="0.7">カサタ<animate attributeName="y" values="-40;220" dur="2.3s" repeatCount="indefinite" begin="0.4s"/></text>
+      <text x="620" y="0" opacity="0.7">01100<animate attributeName="y" values="-40;220" dur="2.1s" repeatCount="indefinite" begin="0.3s"/></text>
+      <text x="650" y="0" opacity="0.5">タナカ<animate attributeName="y" values="-40;220" dur="1.9s" repeatCount="indefinite" begin="0.6s"/></text>
+      <text x="680" y="0" opacity="0.9">10110<animate attributeName="y" values="-40;220" dur="2.4s" repeatCount="indefinite" begin="0.1s"/></text>
+      <text x="710" y="0" opacity="0.6">01011<animate attributeName="y" values="-40;220" dur="1.7s" repeatCount="indefinite" begin="0.9s"/></text>
+      <text x="740" y="0" opacity="0.8">サカナ<animate attributeName="y" values="-40;220" dur="2.2s" repeatCount="indefinite" begin="0.4s"/></text>
+      <text x="770" y="0" opacity="0.5">10011<animate attributeName="y" values="-40;220" dur="1.8s" repeatCount="indefinite" begin="0.7s"/></text>
+      <text x="800" y="0" opacity="0.7">01101<animate attributeName="y" values="-40;220" dur="2.5s" repeatCount="indefinite" begin="0.2s"/></text>
+      <text x="830" y="0" opacity="0.9">タカナ<animate attributeName="y" values="-40;220" dur="2s" repeatCount="indefinite" begin="0.5s"/></text>
+      <text x="860" y="0" opacity="0.6">10101<animate attributeName="y" values="-40;220" dur="1.6s" repeatCount="indefinite" begin="0.3s"/></text>
+    </g>
+
+    <!-- center dark panel so text stays readable -->
+    <rect x="150" y="55" width="600" height="90" rx="8" fill="#020403" opacity="0.82"/>
+    <rect x="150" y="55" width="600" height="90" rx="8" fill="none" stroke="#39ff14" stroke-width="1" opacity="0.5"/>
+
+    <text x="450" y="95" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="30" fill="#39ff14">
+      BHAVYA SHAH
+    </text>
+    <text x="450" y="122" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#8be79b">
+      &gt; wake up, recruiter. the README has you.
+    </text>
+  </g>
+</svg>

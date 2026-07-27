@@ -1,0 +1,62 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="100%" stop-color="#0d0f1a"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="260" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+
+    <!-- scanlines -->
+    <g opacity="0.12">
+      <rect x="0" y="0" width="900" height="260" fill="url(#scan)"/>
+    </g>
+    <pattern id="scan" width="900" height="4" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" fill="#39ff14"/>
+    </pattern>
+
+    <!-- flicker overlay -->
+    <rect width="900" height="260" fill="#39ff14" opacity="0">
+      <animate attributeName="opacity" values="0;0.04;0;0;0.02;0" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- glitch title layers -->
+    <text x="450" y="120" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="58" fill="#ff2b6d" opacity="0.7">
+      BHAVYA SHAH
+      <animate attributeName="x" values="450;444;453;448;450" dur="3.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="120" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="58" fill="#00e5ff" opacity="0.7">
+      BHAVYA SHAH
+      <animate attributeName="x" values="450;456;447;452;450" dur="3.1s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="120" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="58" fill="#39ff14">
+      BHAVYA SHAH
+    </text>
+
+    <!-- subtitle typewriter feel -->
+    <text x="450" y="165" text-anchor="middle" font-family="Courier New, monospace" font-size="19" fill="#8be79b">
+      &gt; compiling human_engineer.exe ...
+    </text>
+
+    <text x="450" y="195" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#4c6b53">
+      status: quiet_observer.deprecated() // extroverted_builder.active()
+    </text>
+
+    <!-- glitch bars -->
+    <rect x="120" y="70" width="60" height="4" fill="#ff2b6d" opacity="0.8">
+      <animate attributeName="x" values="120;700;340;120" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.6;0" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="600" y="200" width="90" height="3" fill="#00e5ff" opacity="0.7">
+      <animate attributeName="x" values="600;180;450;600" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.5;0" dur="1.7s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0" y="0" width="900" height="260" fill="none" stroke="#1c2b1f" stroke-width="2" rx="10"/>
+  </g>
+</svg>
