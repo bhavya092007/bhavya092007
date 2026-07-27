@@ -1,38 +1,216 @@
-# Hi 👋, I'm Bhavya Shah
-**Computer Engineering | Student | Developer  from India**
-
-Email Me 👉 ✉️ **sbhavya838@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-# 💫 About Me:
-Iʼm a Computer Engineering student who believes that the best code is written to solve real-world human problems. <br>My journey has been one of personal evolution—transitioning from a quiet observer to an extroverted builder who <br>thrives on networking and working with new people. I view every new connection as a gateway to fresh knowledge <br>and unique perspectives.<br>I prioritize collaborative growth. I focus on tools that help people connect and share expertise. Iʼm a calm professional <br>looking to bring this "build-and-lead" mindset to a team that values both technical depth and a culture of continuous <br>learning.<br><br><br><br>
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="./matrix.svg" alt="matrix banner" width="100%"/>
+
 </div>
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyashah272) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyashah272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbhavya838@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhavya092007&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=bhavya092007&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya092007&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  root@bhavya:~$ ./boot_sequence.sh                              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<!---## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavya092007&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=%5B+OK+%5D+Booting+identity...+Bhavya+Shah;%5B+OK+%5D+Loading+module%3A+Computer+Engineering;%5B+OK+%5D+Mounting+drive%3A+India%2F%2Fdev%2Fsda1;%5B+OK+%5D+Compiling+curiosity.exe;%5B+DONE+%5D+System+ready.+Say+hi+%F0%9F%91%8B" alt="boot sequence"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhavya092007&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=bhavya092007&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary>⚠️ <b>click only if you're not afraid of the truth</b></summary>
+<br>
+
+```
+[SYSTEM LOG] unauthorized curiosity detected at line 1
+[SYSTEM LOG] visitor opened a collapsed section. bold move.
+[SYSTEM LOG] here's what they don't put in the LinkedIn bio:
+
+  > I once debugged something for 6 hours.
+  > The bug was a missing semicolon.
+  > I have never fully recovered.
+  > I am, however, still standing. And still shipping.
+```
+
+</details>
+
+<br>
+
+## `$ git log --oneline life.log`
+
+```diff
++ commit 9f2a1e0 (HEAD -> main, origin/main)
++ Author: Bhavya Shah <sbhavya838@gmail.com>
++ Date:   ongoing
++
++     feat: became the calm professional who ships and leads
++
+- commit 4c7b3d2
+- Author: Bhavya Shah
+- Date:   sophomore year
+-
+-     refactor(personality): quiet_observer -> extroverted_builder
+-     BREAKING CHANGE: now thrives on networking + new people
+
+  commit 1a0e9f4
+  Author: Bhavya Shah
+  Date:   freshman year
+
+      init: started Computer Engineering degree, India
+```
+
+<br>
+
+## 🧬 the origin story, as a graph
+
+```mermaid
+flowchart LR
+    A[👀 quiet observer] -->|found CS, started building| B[💻 first lines of code]
+    B -->|realized code = leverage for real problems| C[🛠️ builder mindset]
+    C -->|started reaching out, networking on purpose| D[🗣️ extroverted collaborator]
+    D -->|leading projects, still calm under pressure| E[🚀 build-and-lead engineer]
+    E -.->|seeking| F((team that values
+    depth + continuous learning))
+
+    style A fill:#1a1a2e,stroke:#39ff14,color:#fff
+    style B fill:#1a1a2e,stroke:#39ff14,color:#fff
+    style C fill:#1a1a2e,stroke:#00e5ff,color:#fff
+    style D fill:#1a1a2e,stroke:#00e5ff,color:#fff
+    style E fill:#1a1a2e,stroke:#ff2b6d,color:#fff
+    style F fill:#0d0f1a,stroke:#ff2b6d,color:#fff,stroke-dasharray: 5 5
+```
+
+<br>
+
+## `$ cat philosophy.md`
+
+> best_code = f(real_world_human_problem)
+> every_new_connection == gateway_to(fresh_knowledge, unique_perspective)
+> currently_seeking: team.where(depth == True and learning == "continuous")
+
+<br>
+
+## 🧠 how the stack connects in my head
+
+```mermaid
+mindmap
+  root((Bhavya))
+    Languages
+      C / C++
+      C#
+      Java
+      JavaScript
+    Web & Frameworks
+      Next.js
+      FastAPI
+      .NET
+      Flutter
+    Cloud
+      Firebase
+      Google Cloud
+      Vercel
+      Render
+      Supabase
+    Data
+      MySQL
+      MongoDB
+    Human Layer
+      Networking
+      Collaboration
+      Calm Leadership
+```
+
+<br>
+
+## `$ npm ls --depth=0 my-stack`
+
+```json
+{
+  "name": "bhavya-shah",
+  "version": "student-engineer",
+  "dependencies": {
+    "languages": ["C", "C++", "C#", "Java", "JavaScript"],
+    "web": ["HTML5", "Node.js", "Next.js", "FastAPI", ".NET", "Flutter"],
+    "cloud": ["Firebase", "Google Cloud", "Vercel", "Render", "Supabase"],
+    "databases": ["MySQL", "MongoDB"]
+  },
+  "scripts": {
+    "collaborate": "email sbhavya838@gmail.com",
+    "connect": "open linkedin.com/in/bhavyashah272"
+  }
+}
+```
+
+<br>
+
+## `$ ./run_diagnostics.sh --stats`
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya092007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com/?user=bhavya092007&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya092007&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+## 🐍 `$ tail -f contribution_feed.log`
 
 
+
+<div align="center">
+<img src="./snake.svg" width="90%"/>
+</div>
+
+<br>
+
+## 🧾 auto-generated metrics dashboard
+
+*(isocalendar heatmap, language breakdown, unlockable achievements — regenerated daily, also via Action)*
+
+<div align="center">
+<img src="metrics.svg" width="90%"/>
+</div>
+
+<br>
+
+## `$ fortune | cowsay`
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+<br>
+
+## `$ ./connect.sh --all`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────┐
+│  > choose your channel                    │
+├──────────────────────────────────────────┤
+```
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyashah272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyashah272)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbhavya838@gmail.com)
+
+```
+└──────────────────────────────────────────┘
+```
+
+<br>
+
+`[ EOF ]` — you scrolled this far. that's already more effort than most recruiters. thanks for reading.
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=bhavya092007&icon=0&color=39FF14&style=flat-square&label=intrusions+logged)](https://visitcount.itsvg.in)
+
+</div>
