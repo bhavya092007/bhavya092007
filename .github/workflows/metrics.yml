@@ -1,0 +1,27 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 3am UTC
+  workflow_dispatch: {}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # --- plugins that make this genuinely impressive ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          config_timezone: Asia/Kolkata
