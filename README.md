@@ -25,9 +25,9 @@
 [SYSTEM LOG] visitor opened a collapsed section. bold move.
 [SYSTEM LOG] here's what they don't put in the LinkedIn bio:
 
-  > I once debugged something for 6 hours.
-  > The bug was a missing semicolon.
-  > I have never fully recovered.
+  > I once debugged something for 4 hours.
+  > Fixed the bug in 10 seconds, the bug was a missing semicolon.
+  > Changed variable name. Application suddenly works.
   > I am, however, still standing. And still shipping.
 ```
 
