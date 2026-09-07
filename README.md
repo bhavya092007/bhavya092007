@@ -96,14 +96,12 @@ mindmap
   root((Bhavya))
     Languages
       C / C++
-      C#
+      Python
       Java
       JavaScript
     Web & Frameworks
       Next.js
       FastAPI
-      .NET
-      Flutter
     Cloud
       Firebase
       Google Cloud
@@ -112,7 +110,6 @@ mindmap
       Supabase
     Data
       MySQL
-      MongoDB
     Human Layer
       Networking
       Collaboration
@@ -128,10 +125,10 @@ mindmap
   "name": "bhavya-shah",
   "version": "student-engineer",
   "dependencies": {
-    "languages": ["C", "C++", "C#", "Java", "JavaScript"],
-    "web": ["HTML5", "Node.js", "Next.js", "FastAPI", ".NET", "Flutter"],
+    "languages": ["C", "C++", "Python", "Java", "JavaScript"],
+    "web": ["HTML5", "Next.js", "FastAPI"],
     "cloud": ["Firebase", "Google Cloud", "Vercel", "Render", "Supabase"],
-    "databases": ["MySQL", "MongoDB"]
+    "databases": ["MySQL"]
   },
   "scripts": {
     "collaborate": "email sbhavya838@gmail.com",
